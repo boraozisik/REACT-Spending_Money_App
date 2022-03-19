@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "title": "Earphone",
+        "description": "JBL Earphone",
+        "price": 28,
+        "image": "https://s3-ap-southeast-2.amazonaws.com/wc-prod-pim/JPEG_1000x1000/JBLT110IEB_jbl_t110_earphones_black.jpg"
+    },
+    {
+        "id": 2,
+        "title": "Chocolate",
+        "description": "Toblerone Chocolate",
+        "price": 2,
+        "image": "https://n11scdn.akamaized.net/a1/450/ev-yasam/cikolata/toblerone-sutlu-cikolata-360-g__0487981216220664.png"
+    },
+    {
+        "id": 3,
+        "title": "Sneaker",
+        "description": "Vans of the Wall",
+        "price": 400,
+        "image": "https://st-vans.mncdn.com/mnresize/1500/1500/Content/media/ProductImg/original/637639359615364574.jpg"
+    },
+    {
+        "id": 4,
+        "title": "Car",
+        "description": "Nissan Skyline R34",
+        "price": 40000,
+        "image": "https://i.pinimg.com/originals/d9/1e/f4/d91ef451bb35eb2e2899eb9050efb343.jpg"
+    },
+    {
+        "id": 5,
+        "title": "Computer",
+        "description": "Macbook Pro",
+        "price": 10000,
+        "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/HA244?wid=1144&hei=1144&fmt=jpeg&qlt=95&.v=1631831826000"
+
+    },
+    {
+        "id": 6,
+        "title": "Phone",
+        "description": "Iphone11 - Green",
+        "price": 8000,
+        "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/iphone11-green-select-2019_GEO_EMEA?wid=834&hei=1000&fmt=jpeg&qlt=95&.v=1567021766404"
+    },
+    {
+        "id": 7,
+        "title": "Book",
+        "description": "Mustafa Kemal Atatürk - Nutuk",
+        "price": 25,
+        "image": "https://www.alternatifkitap.com/images/detailed/12/9789944888349.jpg"
+    },
+    {
+        "id": 8,
+        "title": "Kettle",
+        "description": "Tantitoni Stainless Kettle",
+        "price": 65,
+        "image": "https://www.tantitoni.com.tr/paslanmaz-celik-rose-gold-kettle-2l-14078-kucuk-elektrikli-ev-aletleri-tantitoni-10726-14-O.jpg"
+        
+    }
+     
+
+
+
+
+
+]
