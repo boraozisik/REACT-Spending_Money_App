@@ -1,5 +1,5 @@
 # Project Description
-* You can spend your $ 250.000 whatever you want *
+*You can spend your $ 250.000 whatever you want*
 
 # Getting Started with Create React App
 
